@@ -1,5 +1,5 @@
 # How to install ?
-install opencv :
+## Install opencv :
 pip install opencv-python
-install numpy :
+## Install numpy :
 pip install numpy
