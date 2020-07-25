@@ -1,7 +1,7 @@
 import cv2, numpy as np
 
 img1 = None
-win_name = 'Camera Matching'
+win_name = 'Feature Matching'
 MIN_MATCH = 10
 detector = cv2.ORB_create(1000)
 FLANN_INDEX_LSH = 6
